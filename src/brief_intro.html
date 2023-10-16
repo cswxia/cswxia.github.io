@@ -1,0 +1,73 @@
+<table border="0" bordercolor="#FFFFFF">
+    <tbody>
+        <tr>
+            <td width="336" rowspan="3">
+                <img src="index_files/xiawen-2021.jpg" alt="wen" width="281" height="287" class="AVATAR">
+            </td>
+            <td height="235" colspan="5">
+                <p><span class="NAME">Wen Xia</span><span class="FONT36">,</span> <span class="FONT18">Ph.D.,
+                    </span>Professor </p>
+                <p><a href="http://cs.hitsz.edu.cn">School of Computer Science and Technology</a><br>
+                    <a href="http://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen </a>
+                </p>
+                <p>Office: HIT Campus of University Town of Shenzhen, Shenzhen, China <br>
+                    Email: xiawen (AT) hit.edu.cn or wx.hust (AT) gmail.com </p>
+            </td>
+            <!-- <td width="71" rowspan="3">&nbsp;</td> -->
+        </tr>
+        <tr>
+            <td idx="publications" width="135">
+                <a href="#SelectedPublications" class="INDEX_ITEM">Publications</a>
+            </td>
+
+            <td idx="services">
+                <a href="#ProfessionalServices" class="INDEX_ITEM">Services</a>
+            </td>
+
+            <td idx="awards">
+                <a href="#Awards" class="INDEX_ITEM">Awards</a>
+            </td>
+
+            <td idx="team">
+                <a href="#Team" class="INDEX_ITEM">Team</a>
+            </td>
+
+            <td idx="teaching">
+                <a href="#Teaching" class="INDEX_ITEM">Teaching</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" bordercolor="#000000">
+                <hr align="left" height="1">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<script>
+    function __adjust_index_layout() {
+        const tds = document.querySelectorAll('td[idx]');
+        const first_td_width = tds[0].offsetWidth;
+        const first_a_width = tds[0].querySelector('a').offsetWidth;
+        tds.forEach(td => {
+            const a = td.querySelector('a');
+            const tdWidth = a.offsetWidth + (first_td_width - first_a_width);
+            td.setAttribute('width', tdWidth);
+            // if td is the last one, then set its width to a
+            if (td === tds[tds.length - 1]) {
+                td.setAttribute('width', a.offsetWidth);
+            }
+        });
+    }
+
+    __adjust_index_layout()
+</script>
+
+<p>
+    Wen Xia received his Ph.D. degree in Computer Science from Huazhong University of Science and Technology in June
+    2014. He is now a professor at the School of Computer Science and Technology, Harbin Institute of Technology,
+    Shenzhen. His research interests include data deduplication, data compression, storage systems, and cloud storage.
+    He publishes over 70 papers in major journals and conferences including Proceedings of the IEEE (PIEEE), IEEE
+    Transactions on Computers (TC), IEEE Transactions on Parallel and Distributed Systems (TPDS), FAST, USENIX ATC,
+    INFOCOM, MSST, Performance, IPDPS, HotStorage, etc. He is a member of ACM, CCF, IEEE, and USENIX.
+</p>
