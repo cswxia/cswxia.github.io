@@ -59,10 +59,10 @@ gen_basic_list_for_team("#PHDList", PHDList)
 
 gen_basic_list_for_team("#MasterList", MasterList)
 
-document.querySelector("#FacultyList").innerHTML = FacultyList.map(item => {
-    return `<li>
-                <p>
-                    ${item.name} (${item.email})
-                </p>
-            </li>`
-}).join("\n")
+// document.querySelector("#FacultyList").innerHTML = FacultyList.map(item => {
+//     return `<li>
+//                 <p>
+//                     ${item.name} (${item.email})
+//                 </p>
+//             </li>`
+// }).join("\n")

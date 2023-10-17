@@ -1,5 +1,23 @@
 pubs = [
     {
+        "title": "HUNTER: Releasing Persistent Memory Write Performance with A Novel PM-DRAM Collaboration Architecture",
+        "authors": "Yanqi Pan, Yifeng Zhang, Wen Xia*, Xiangyu Zou, Cai Deng",
+        "href": "10.1109/DAC56929.2023.10247940",
+        "epilogue": "Proceedings of 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023, pp. 1-6"
+    },
+    {
+        "title": "EEPH: An Efficient Extendible Perfect Hashing for Hybrid PMem-DRAM",
+        "authors": "Qi Chen, Hao Hu, Cai Deng, Dingbang Liu, Shiyi Li, Bo Tang, Ting Yao, and Wen Xia*",
+        "href": "10.1109/ICDE55515.2023.00109",
+        "epilogue": "Proceedings of 2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE, 2023"
+    },
+    {
+        "title": "imDedup: A Lossless Deduplication Scheme to Eliminate Fine-grained Redundancy among Images",
+        "authors": "Cai Deng, Qi Chen, Xiangyu Zou, Erci Xu, Bo Tang, and Wen Xia*",
+        "href": "10.1109/ICDE53745.2022.00085",
+        "epilogue": "Proceedings of 2022 IEEE 38th International Conference on Data Engineering (ICDE), Kuala Lumpur, Malaysia, 2022, pp. 1071-1084."
+    },
+    {
         "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems",
         "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia*, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua",
         "href": "https://www.usenix.org/conference/atc23/",
@@ -83,13 +101,16 @@ document.querySelector("#PubList").innerHTML = pubs.map(pub => {
         }
     }).join(", ")
 
-    var title = `"<em><a href="${pub.href}">${pub.title}</a></em>"`
-
+    var title = `<strong>${pub.title}</strong>`
     var epilogue = pub.epilogue.replace("(", "(<strong>").replace(")", "</strong>)")
+    var href = `[<a href="${pub.href}">PDF</a>]`
 
     return `<li>
                 <p>
-                    ${authors}, ${title}, ${epilogue}
+                    ${authors} <br> 
+                    ${title} <br> 
+                    ${epilogue} <br>
+                    ${href}
                 </p>
             </li>`
 }).join("\n")
