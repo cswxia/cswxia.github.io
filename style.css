@@ -1,0 +1,50 @@
+/* .CONTAINER {
+    padding-left: 10%;
+    padding-right: 30%;
+} */
+
+/* Items */
+.NAME {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.INDEX_ITEM {
+    color: #000000;
+    font-weight: bold;
+}
+
+.AVATAR {
+    border-radius: 50%;
+    border: 1px solid #000000;
+}
+
+.SECTION-HEADER {
+    font-weight: bold;
+    font-size: large;
+}
+
+/* FONT Related CSS */
+.FONT36 {
+    font-size: 36px
+}
+
+.FONT18 {
+    font-size: 18px
+}
+
+.FONT-BOLD {
+    font-weight: bold
+}
+
+.FONT-SMALL {
+    font-size: small
+}
+
+.FONT-TIMES-NEW-ROMAN {
+    font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.FONT-SONG {
+    font-family: "宋体"
+}
