@@ -1,14 +1,15 @@
-teachings = [
-    {
-        "title": "Computer Systems (CSAPP)",
-        "year": "2020",
-    },
+teachings = [ 
     {
         "title": "Operating Systems",
-        "year": "2019, 2020",
+        "year": "2019, 2020, 2021, 2022, 2023",
     },
     {
-        "title": "Data Storage and Management in Internet of Things",
+        "title": "Computer Systems (CSAPP)",
+        "year": "2020, 2021, 2022, 2023",
+    },
+   
+    {
+        "title": "Data Storage and Management in the Internet of Things",
         "year": "2016, 2015",
     },
     {
