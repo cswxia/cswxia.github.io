@@ -1,26 +1,8 @@
-FacultyList = [
-    {
-        "name": "Wen Xia",
-        "email": "xiawen@hit.edu.cn"
-    },
-    {
-        "name": "Shiyi Li",
-        "email": "lishiyi@hit.edu.cn"
-    },
-    {
-        "name": "Xiangyu Zou",
-        "email": "zouxiangyu@hit.edu.cn"
-    },
-    {
-        "name": "Xuedan Yao",
-        "email": "hitsystem@hotmail.com"
-    }
-]
 
 PHDList = [
     {
         "year": "2023",
-        "names": "Hao Huang"
+        "names": "Hao Huang, Jia Sun"
     },
     {
         "year": "2022",
@@ -38,16 +20,12 @@ PHDList = [
 
 MasterList = [
     {
-        "year": "2024",
-        "names": "Peixin Zeng, Darong Yang, Boju Chen, Jiahao Chen, Xincong Lin, Zhichao Yang"
-    },
-    {
         "year": "2023",
-        "names": "Yangqi Zheng, Weihao Yang, Yifeng Zhang, Zili Ye, Juehao Chen"
+        "names": "Yangqi Zheng, Weihao Yang, Yifeng Zhang, Zili Ye"
     },
     {
         "year": "2022",
-        "names": "Yanqi Pan, Dingbang Liu, Jiarui Wang, Yunsheng Dong, Yufan Chen, Shuaipeng Zhang"
+        "names": "Yanqi Pan, Dingbang Liu, Jiarui Wang, Yunsheng Dong, Yufan Chen"
     },
     {
         "year": "2021",
