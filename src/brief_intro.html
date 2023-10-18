@@ -1,71 +1,40 @@
-<table border="0" bordercolor="#FFFFFF">
-    <tbody>
-        <tr>
-            <td width="336" rowspan="3">
-                <img src="index_files/xiawen-2021.jpg" alt="wen" width="281" height="287" class="AVATAR">
-            </td>
-            <td height="235" colspan="5">
-                <p><span class="NAME">Wen Xia</span><span class="FONT36">,</span> <span class="FONT18">Ph.D.,
-                    </span>Professor </p>
-                <p><a href="http://cs.hitsz.edu.cn">School of Computer Science and Technology</a><br>
-                    <a href="http://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen </a>
-                </p>
-                <p>Office: HIT Campus of University Town of Shenzhen, Shenzhen, China <br>
-                    Email: xiawen (AT) hit.edu.cn or wx.hust (AT) gmail.com </p>
-            </td>
-            <!-- <td width="71" rowspan="3">&nbsp;</td> -->
-        </tr>
-        <tr>
-            <td idx="publications" width="135">
-                <a href="#SelectedPublications" class="INDEX_ITEM">Publications</a>
-            </td>
+<div class="INTRO-CONTAINER">
+    <div class="AVATAR-CONTAINER">
+        <img src="index_files/xiawen-2021.jpg" alt="wen" width="281" height="287" class="AVATAR">
+    </div>
+    <div class="BASIC-INFO-CONTAINER">
+        <div style="width: 100%;">
+            <p><span class="NAME">Wen Xia</span><span class="FONT2EM">,</span> <span>Ph.D.,
+                </span>Professor </p>
+            <p>
+                <a href="http://cs.hitsz.edu.cn">School of Computer Science and Technology</a>
+                <br>
+                <a href="http://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen </a>
+            </p>
+            <p>Office: HIT Campus of University Town of Shenzhen, Shenzhen, China <br>
+                Email: xiawen (AT) hit.edu.cn or wx.hust (AT) gmail.com </p>
+        </div>
 
-            <td idx="services">
-                <a href="#ProfessionalServices" class="INDEX_ITEM">Services</a>
-            </td>
+        <div class="INDEX" style="width: 100%;">
+            <a href="#SelectedPublications" class="INDEX_ITEM">Publications</a>
 
-            <td idx="awards">
-                <a href="#Awards" class="INDEX_ITEM">Awards</a>
-            </td>
+            <a href="#ProfessionalServices" class="INDEX_ITEM">Services</a>
 
-            <td idx="team">
-                <a href="#Teams" class="INDEX_ITEM">Team</a>
-            </td>
+            <a href="#Awards" class="INDEX_ITEM">Awards</a>
 
-            <td idx="teaching">
-                <a href="#Teaching" class="INDEX_ITEM">Teaching</a>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="5" bordercolor="#000000">
-                <hr align="left" height="1">
-            </td>
-        </tr>
-    </tbody>
-</table>
+            <a href="#Teams" class="INDEX_ITEM">Team</a>
 
-<script>
-    function __adjust_index_layout() {
-        const tds = document.querySelectorAll('td[idx]');
-        const first_td_width = tds[0].offsetWidth;
-        const first_a_width = tds[0].querySelector('a').offsetWidth;
-        tds.forEach(td => {
-            const a = td.querySelector('a');
-            const tdWidth = a.offsetWidth + (first_td_width - first_a_width);
-            td.setAttribute('width', tdWidth);
-            // if td is the last one, then set its width to a
-            if (td === tds[tds.length - 1]) {
-                td.setAttribute('width', a.offsetWidth);
-            }
-        });
-    }
+            <a href="#Teaching" class="INDEX_ITEM">Teaching</a>
+        </div>
 
-    __adjust_index_layout()
-</script>
+        <div class="DIVIDER" style="width: 100%;" />
+    </div>
+</div>
 
 <p>
-    Wen Xia  is now a professor at the School of Computer Science and Technology, Harbin Institute of Technology,
-    Shenzhen. He received his Ph.D. degree in Computer Science from Huazhong University of Science and Technology in June
+    Wen Xia is now a professor at the School of Computer Science and Technology, Harbin Institute of Technology,
+    Shenzhen. He received his Ph.D. degree in Computer Science from Huazhong University of Science and Technology in
+    June
     2014. His research interests include data deduplication, data compression, storage systems, and cloud storage.
     He publishes over 80 papers in major journals and conferences including Proceedings of the IEEE (PIEEE), IEEE
     Transactions on Computers (TC), IEEE Transactions on Parallel and Distributed Systems (TPDS), FAST, USENIX ATC,
