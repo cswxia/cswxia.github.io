@@ -1,4 +1,10 @@
 pubs = [
+     {
+        "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems",
+        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia*, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua",
+        "href": "https://www.usenix.org/conference/atc23/",
+        "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference  (USENIX ATC'23), Carlsbad, CA, USA, Jul. 2023. (Acceptance rate: 18%)"
+    },
     {
         "title": "HUNTER: Releasing Persistent Memory Write Performance with A Novel PM-DRAM Collaboration Architecture",
         "authors": "Yanqi Pan, Yifeng Zhang, Wen Xia*, Xiangyu Zou, Cai Deng",
@@ -11,23 +17,19 @@ pubs = [
         "href": "10.1109/ICDE55515.2023.00109",
         "epilogue": "Proceedings of 2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE, 2023"
     },
-    {
-        "title": "imDedup: A Lossless Deduplication Scheme to Eliminate Fine-grained Redundancy among Images",
-        "authors": "Cai Deng, Qi Chen, Xiangyu Zou, Erci Xu, Bo Tang, and Wen Xia*",
-        "href": "10.1109/ICDE53745.2022.00085",
-        "epilogue": "Proceedings of 2022 IEEE 38th International Conference on Data Engineering (ICDE), Kuala Lumpur, Malaysia, 2022, pp. 1071-1084."
-    },
-    {
-        "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems",
-        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia*, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua",
-        "href": "https://www.usenix.org/conference/atc23/",
-        "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference  (USENIX ATC'23), Carlsbad, CA, USA, Jul. 2023. (Acceptance rate: 18%)"
-    },
+   
     {
         "title": "Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio",
         "authors": "Xiangyu Zou, Wen Xia*, Philip Shilane, Haijun Zhang, and Xuan Wang",
         "href": "https://www.usenix.org/conference/atc22/",
         "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference (USENIX ATC'22), Carlsbad, CA, USA, Jul. 2022. (Acceptance rate: 16%)"
+    },
+    
+    {
+        "title": "imDedup: A Lossless Deduplication Scheme to Eliminate Fine-grained Redundancy among Images",
+        "authors": "Cai Deng, Qi Chen, Xiangyu Zou, Erci Xu, Bo Tang, and Wen Xia*",
+        "href": "10.1109/ICDE53745.2022.00085",
+        "epilogue": "Proceedings of 2022 IEEE 38th International Conference on Data Engineering (ICDE), Kuala Lumpur, Malaysia, 2022, pp. 1071-1084."
     },
     {
         "title": "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
