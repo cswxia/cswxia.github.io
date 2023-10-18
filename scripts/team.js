@@ -21,7 +21,7 @@ PHDList = [
 MasterList = [
     {
         "year": "2023",
-        "names": "Yangqi Zheng, Weihao Yang, Yifeng Zhang, Zili Ye"
+        "names": "Zili Ye, Qiyang Zheng, Weihao Yang, Yifeng Zhang"
     },
     {
         "year": "2022",
