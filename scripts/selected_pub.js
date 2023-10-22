@@ -96,14 +96,14 @@ pubs = [
 
 document.querySelector("#PubList").innerHTML = pubs.map(pub => {
     var authors = pub.authors.split(",").map(author => {
-        if (author.includes("*")) {
+        if (author.includes("Wen Xia")) {
             return `<strong>${author}</strong>`
         } else {
             return author
         }
     }).join(", ")
 
-    var title = `<strong>${pub.title}</strong>`
+    
     var epilogue = pub.epilogue.replace("(", "(<strong>").replace(")", "</strong>)")
     var href = `[<a href="${pub.href}">PDF</a>]`
 
