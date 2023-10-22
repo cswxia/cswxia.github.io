@@ -103,7 +103,7 @@ document.querySelector("#PubList").innerHTML = pubs.map(pub => {
         }
     }).join(", ")
 
-    var title = `<strong>${pub.title}</strong>`
+    var title = `${pub.title}`
     var epilogue = pub.epilogue.replace("(", "(<strong>").replace(")", "</strong>)")
     var href = `[<a href="${pub.href}">PDF</a>]`
 
