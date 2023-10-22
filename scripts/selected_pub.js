@@ -9,13 +9,13 @@ pubs = [
         "title": "HUNTER: Releasing Persistent Memory Write Performance with A Novel PM-DRAM Collaboration Architecture.",
         "authors": "Yanqi Pan, Yifeng Zhang, Wen Xia, Xiangyu Zou, Cai Deng.",
         "href": "10.1109/DAC56929.2023.10247940",
-        "epilogue": "Proceedings of 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023."
+        "epilogue": "Proceedings of 2023 60th ACM/IEEE Design Automation Conference (DAC'23), San Francisco, CA, USA, 2023."
     },
     {
         "title": "EEPH: An Efficient Extendible Perfect Hashing for Hybrid PMem-DRAM.",
         "authors": "Qi Chen, Hao Hu, Cai Deng, Dingbang Liu, Shiyi Li, Bo Tang, Ting Yao, and Wen Xia.",
         "href": "10.1109/ICDE55515.2023.00109",
-        "epilogue": "Proceedings of 2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE, 2023."
+        "epilogue": "Proceedings of 2023 IEEE 39th International Conference on Data Engineering (ICDE'23). IEEE, 2023."
     },
    
     {
@@ -29,7 +29,7 @@ pubs = [
         "title": "imDedup: A Lossless Deduplication Scheme to Eliminate Fine-grained Redundancy among Images.",
         "authors": "Cai Deng, Qi Chen, Xiangyu Zou, Erci Xu, Bo Tang, and Wen Xia.",
         "href": "10.1109/ICDE53745.2022.00085",
-        "epilogue": "Proceedings of 2022 IEEE 38th International Conference on Data Engineering (ICDE), Kuala Lumpur, Malaysia, 2022."
+        "epilogue": "Proceedings of 2022 IEEE 38th International Conference on Data Engineering (ICDE'22), Kuala Lumpur, Malaysia, 2022."
     },
     {
         "title": "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
