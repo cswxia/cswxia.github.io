@@ -1,4 +1,16 @@
 pubs = [
+      {
+        "title": "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS.",
+        "authors": "Yanqi Pan, Wen Xia*, Erci Xu*, Xiangyu Zou, and Hao Huang.",
+        "href": "https://www.usenix.org/conference/fast25/",
+        "epilogue": "Proceedings of  the 23rd USENIX Conference on File and Storage Technologies (FAST'25), Santa Clara, CA, USA, February 25-27, 2025. (Acceptance rate: 21%)"
+    },
+      {
+        "title": "H2C-Dedup: Reducing I/O and GC Amplification for QLC SSDs from the Deduplication Metadata Perspective.",
+        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
+        "href": "https://acmsocc.org/2024/",
+        "epilogue": "Proceedings of the 15th ACM Symposium on Cloud Computing (SoCC'24), Redmond, WA, in the Microsoft Campus, November 20-22， 2024。"
+    },
      {
         "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems.",
         "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
