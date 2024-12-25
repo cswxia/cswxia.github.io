@@ -7,9 +7,9 @@ pubs = [
     },
       {
         "title": "H2C-Dedup: Reducing I/O and GC Amplification for QLC SSDs from the Deduplication Metadata Perspective.",
-        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
+        "authors": "Yunsheng Dong, Boju Chen, Yanqi Pan, Xiangyu Zou, Wen Xia*.",
         "href": "https://acmsocc.org/2024/",
-        "epilogue": "Proceedings of the 15th ACM Symposium on Cloud Computing (SoCC'24), Redmond, WA, in the Microsoft Campus, November 20-22， 2024。"
+        "epilogue": "Proceedings of the 15th ACM Symposium on Cloud Computing (SoCC'24), Redmond, WA, USA, November 20-22， 2024."
     },
      {
         "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems.",
