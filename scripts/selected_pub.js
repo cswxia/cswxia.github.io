@@ -1,4 +1,22 @@
 pubs = [
+        {
+        "title": " Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
+        "authors": "Hao Huang, Yanqi Pan, Wen Xia, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
+        "href": "https://www.asplos-conference.org/asplos2025/",
+        "epilogue": "Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’25), March 30–April 3, 2025, Rotterdam, Netherlands. (Acceptance rate: 20%)"
+    },
+        {
+        "title": "Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage.",
+        "authors": "Dingbang Liu, Xiangyu Zou*, Tao Lu, Philip Shilane, Wen Xia, Wenxuan Huang, Yanqi Pan, Hao Huang.",
+        "href": "https://www.eurosys.org/news/eurosys-2025",
+        "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
+    },
+        {
+        "title": "Overcoming the Last Mile between Log-Structured File Systems and Persistent Memory via Scatter Logging.",
+        "authors": "Yifeng Zhang, Yanqi Pan, Hao Huang, Yuchen Shan, Wen Xia.",
+        "href": "https://www.eurosys.org/news/eurosys-2025",
+        "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
+    },
       {
         "title": "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS.",
         "authors": "Yanqi Pan, Wen Xia, Erci Xu, Xiangyu Zou, and Hao Huang.",
