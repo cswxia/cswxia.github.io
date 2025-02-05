@@ -7,7 +7,7 @@ pubs = [
     },
         {
         "title": "Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage.",
-        "authors": "Dingbang Liu, Xiangyu Zou*, Tao Lu, Philip Shilane, Wen Xia, Wenxuan Huang, Yanqi Pan, Hao Huang.",
+        "authors": "Dingbang Liu, Xiangyu Zou, Tao Lu, Philip Shilane, Wen Xia, Wenxuan Huang, Yanqi Pan, Hao Huang.",
         "href": "https://www.eurosys.org/news/eurosys-2025",
         "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
     },
