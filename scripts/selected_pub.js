@@ -19,7 +19,7 @@ pubs = [
     },
       {
         "title": "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS.",
-        "authors": "Yanqi Pan, Wen Xia, Erci Xu, Xiangyu Zou, and Hao Huang.",
+        "authors": "Yanqi Pan, Wen Xia, Erci Xu,  Hao Huang, Xiangyu Zou, and Shiyi Li.",
         "href": "https://www.usenix.org/conference/fast25/",
         "epilogue": "Proceedings of  the 23rd USENIX Conference on File and Storage Technologies (FAST'25), Santa Clara, CA, USA, February 25-27, 2025. (Acceptance rate: 21%)"
     },
