@@ -1,4 +1,11 @@
 pubs = [
+        
+        {
+        "title": " Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
+        "authors": "Yanqi Pan, Wen Xia*, Yifeng Zhang, Xiangyu Zou, Hao Huang, Zhenhua Li, and Chentao Wu.",
+        "href": "https://www.asplos-conference.org/asplos2025/",
+        "epilogue": "Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), Boston, MA, USA, July 7-9, 2025. (Acceptance rate: 14%)"
+    },
         {
         "title": " Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
         "authors": "Hao Huang, Yanqi Pan, Wen Xia, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
