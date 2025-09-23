@@ -1,7 +1,7 @@
 teachings = [ 
     {
         "title": "Operating Systems",
-        "year": "2019, 2020, 2021, 2022, 2023, 2024",
+        "year": "2019, 2020, 2021, 2022, 2023, 2024, 2025",
     },
     {
         "title": "Computer Systems (CSAPP)",
