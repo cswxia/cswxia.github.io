@@ -1,5 +1,9 @@
-pubs = [
-        
+pubs = [{
+        "title": " Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
+        "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
+        "href": "https://2026.eurosys.org/",
+        "epilogue": "Proceedings of the 21th ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
+    },
         {
         "title": " Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
         "authors": "Yanqi Pan, Wen Xia, Yifeng Zhang, Xiangyu Zou, Hao Huang, Zhenhua Li, and Chentao Wu.",
