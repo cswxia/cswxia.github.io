@@ -42,34 +42,34 @@ pubs = [{
       
      {
         "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems.",
-        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
+        "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia*, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
         "href": "https://www.usenix.org/conference/atc23/",
         "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference  (USENIX ATC'23), Carlsbad, CA, USA, Jul. 2023. (Acceptance rate: 18%)"
     },
     
         {
         "title": "Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio.",
-        "authors": "Xiangyu Zou, Wen Xia, Philip Shilane, Haijun Zhang, and Xuan Wang.",
+        "authors": "Xiangyu Zou, Wen Xia*, Philip Shilane, Haijun Zhang, and Xuan Wang.",
         "href": "https://www.usenix.org/conference/atc22/",
         "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference (USENIX ATC'22), Carlsbad, CA, USA, Jul. 2022. (Acceptance rate: 16%)"
     },
     
     {
         "title": "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
-        "authors": "Xiangyu Zou, Jingsong Yuan, Philip Shilane, Wen Xia, Haijun Zhang, and Xuan Wang.",
+        "authors": "Xiangyu Zou, Jingsong Yuan, Philip Shilane, Wen Xia*, Haijun Zhang, and Xuan Wang.",
         "href": "https://www.usenix.org/conference/fast21/presentation/zou",
         "epilogue": "Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST'21), Santa Clara, CA, USA, Feb. 2021. (Acceptance rate: 21.5%)"
     },
     {
         "title": "Austere Flash Caching with Deduplication and Compression.",
-        "authors": "Qiuping Wang, Jinhong Li, Wen Xia, Erik Kruus, Biplob Debnath, and Patrick P. C. Lee.",
+        "authors": "Qiuping Wang, Jinhong Li, Wen Xia*, Erik Kruus, Biplob Debnath, and Patrick P. C. Lee.",
         "href": "https://www.usenix.org/conference/atc20/presentation/wang-qiuping",
         "epilogue": "Proceedings of the 2020 USENIX Annual Technical Conference (USENIX ATC'20), Boston, MA, USA, Jul. 2020. (Acceptance rate: 17%)"
     },
     
     {
         "title": "Finesse: Fine-Grained Feature Locality based Fast Resemblance Detection for Post-Deduplication Delta Compression.",
-        "authors": "Yucheng Zhang, Wen Xia, Dan Feng, Hong Jiang, Yu Hua, and Qiang Wang.",
+        "authors": "Yucheng Zhang, Wen Xia*, Dan Feng, Hong Jiang, Yu Hua, and Qiang Wang.",
         "href": "https://www.usenix.org/conference/fast19/presentation/zhang",
         "epilogue": "Proceedings of the 17th USENIX Conference on File and Storage Technologies (FAST'19), BOSTON, MA, USA, Feb. 2019. (Acceptance rate: 18%)"
     },
