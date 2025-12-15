@@ -1,18 +1,23 @@
 pubs = [{
-        "title": " Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
+        "title": "Towards Condensed and Efficient Read-Only File System via Sort-Enhanced Compressionn.",
+        "authors": "Hao Huang, Yifeng Zhang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Jubin Zhong, and Hua Liao.",
+        "href": "https://www.usenix.org/conference/fast26",
+        "epilogue": "Proceedings of the 24rd USENIX Conference on File and Storage Technologies (FAST'26), Santa Clara, CA, USA, February 24-26, 2026.  (Acceptance rate: 17.5%)"
+    },{
+        "title": "Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
         "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
         "href": "https://2026.eurosys.org/",
         "epilogue": "Proceedings of the 21th ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
     },
         {
-        "title": " Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
-        "authors": "Yanqi Pan, Wen Xia, Yifeng Zhang, Xiangyu Zou, Hao Huang, Zhenhua Li, and Chentao Wu.",
+        "title": "Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
+        "authors": "Yanqi Pan, Wen Xia*, Yifeng Zhang, Xiangyu Zou, Hao Huang, Zhenhua Li, and Chentao Wu.",
         "href": "https://www.usenix.org/conference/osdi25",
         "epilogue": "Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), Boston, MA, USA, July 7-9, 2025. (Acceptance rate: 14%)"
     },
         {
-        "title": " Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
-        "authors": "Hao Huang, Yanqi Pan, Wen Xia, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
+        "title": "Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
+        "authors": "Hao Huang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
         "href": "https://www.asplos-conference.org/asplos2025/",
         "epilogue": "Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’25), March 30–April 3, 2025, Rotterdam, Netherlands. (Acceptance rate: 20%)"
     },
@@ -24,13 +29,13 @@ pubs = [{
     },
         {
         "title": "Overcoming the Last Mile between Log-Structured File Systems and Persistent Memory via Scatter Logging.",
-        "authors": "Yifeng Zhang, Yanqi Pan, Hao Huang, Yuchen Shan, Wen Xia.",
+        "authors": "Yifeng Zhang, Yanqi Pan, Hao Huang, Yuchen Shan, Wen Xia*.",
         "href": "https://www.eurosys.org/news/eurosys-2025",
         "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
     },
       {
         "title": "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS.",
-        "authors": "Yanqi Pan, Wen Xia, Erci Xu,  Hao Huang, Xiangyu Zou, and Shiyi Li.",
+        "authors": "Yanqi Pan, Wen Xia*, Erci Xu,  Hao Huang, Xiangyu Zou, and Shiyi Li.",
         "href": "https://www.usenix.org/conference/fast25/",
         "epilogue": "Proceedings of  the 23rd USENIX Conference on File and Storage Technologies (FAST'25), Santa Clara, CA, USA, February 25-27, 2025. (Acceptance rate: 21%)"
     },
