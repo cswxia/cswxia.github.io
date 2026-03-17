@@ -2,17 +2,17 @@ pubs = [{
         "title": "Towards Condensed and Efficient Read-Only File System via Sort-Enhanced Compression.",
         "authors": "Hao Huang, Yifeng Zhang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Jubin Zhong, and Hua Liao.",
         "href": "https://www.usenix.org/conference/fast26",
-        "epilogue": "Proceedings of the 24rd USENIX Conference on File and Storage Technologies (FAST'26), Santa Clara, CA, USA, February 24-26, 2026.  (Acceptance rate: 17.5%)"
+        "epilogue": "Proceedings of the 24th USENIX Conference on File and Storage Technologies (FAST'26), Santa Clara, CA, USA, February 24-26, 2026.  (Acceptance rate: 17.5%)"
     },{
         "title": "Once Rolling Hashing is Enough: Exploiting Rolling Hash Reuse in Delta Compression.",
         "authors": "Haoliang Tan, Wenhao Ou, Xiangyu Zou, Cai Deng, Yanqi Pan, Hao Huang, Zhaoquan Gu, Wen Xia*.",
        "href": "https://2026.eurosys.org/",
-        "epilogue": "Proceedings of the 21th ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
+        "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
     },{
         "title": "Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
         "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
         "href": "https://2026.eurosys.org/",
-        "epilogue": "Proceedings of the 21th ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
+        "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27 - April 30, 2025. (Acceptance rate: 16.9%)"
     },
         {
         "title": "Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
@@ -95,7 +95,7 @@ pubs = [{
         "title": "Design Tradeoffs for Data Deduplication Performance in Backup Workloads.",
         "authors": "Min Fu, Dan Feng, Yu Hua, Xubin He, Zuoning Chen, Wen Xia, Yucheng Zhang, and Yujuan Tan.",
         "href": "https://www.usenix.org/system/files/conference/fast15/fast15-paper-fu.pdf",
-        "epilogue": "in Proceedings of the 13th USENIX Conference on File and Storage Technologies (FAST'15), Santa Clara, CA, USA, February 16-19, 2015. USENIX Association, pages: 331-344. (Acceptance rate: 21%)"
+        "epilogue": "in Proceedings of the 13rd USENIX Conference on File and Storage Technologies (FAST'15), Santa Clara, CA, USA, February 16-19, 2015. USENIX Association, pages: 331-344. (Acceptance rate: 21%)"
     },
     
     {
