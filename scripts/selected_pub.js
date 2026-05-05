@@ -91,7 +91,7 @@ pubs = [
         "title": "FastCDC: a Fast and Efficient Content-Defined Chunking Approach for Data Deduplication.",
         "authors": "Wen Xia, Yukun Zhou, Hong Jiang, Dan Feng, Yu Hua, Yuchong Hu, Yucheng Zhang, and Qing Liu.",
         "href": "https://www.usenix.org/system/files/conference/atc16/atc16-paper-xia.pdf",
-        "epilogue": "in Proceedings of USENIX Annual Technical Conference (USENIX ATC'16), Denver, CO, USA, June 22–24, 2016, pages: 101-114. (Acceptance rate:18%, the FastCDC source code is <a href=\"https://github.com/wxiacode/FastCDC-c\">here</a>)"
+        "epilogue": "in Proceedings of USENIX Annual Technical Conference (USENIX ATC'16), Denver, CO, USA, June 22–24, 2016, pages: 101-114. (Acceptance rate:18%, the FastCDC source code is <a href=\"https://github.com/wxiacode/FastCDC-c\">here</a>) <strong>This work was widely used by Ceph, Zstd, PuzzleFS, etc.</strong>"
     },
     {
         "title": "Design Tradeoffs for Data Deduplication Performance in Backup Workloads.",
