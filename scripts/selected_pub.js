@@ -3,8 +3,7 @@ pubs = [
         "title": "Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
         "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
         "href": "https://2026.eurosys.org/",
-        "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27-30, 2026. 
-                (Acceptance rate: 16.9%) <strong>Gilles Muller Best Artifact Award</strong>"
+        "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27-30, 2026. (Acceptance rate: 16.9%) <strong>Gilles Muller Best Artifact Award</strong>"
     },{
         "title": "Once Rolling Hashing is Enough: Exploiting Rolling Hash Reuse in Delta Compression.",
         "authors": "Haoliang Tan, Wenhao Ou, Xiangyu Zou, Cai Deng, Yanqi Pan, Hao Huang, Zhaoquan Gu, Wen Xia*.",
