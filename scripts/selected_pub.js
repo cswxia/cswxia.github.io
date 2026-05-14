@@ -2,7 +2,7 @@ pubs = [{
         "title": "Compaction-Free Memory Defragmentation for Virtualization via Infinite Guest Physical Address Space.",
         "authors": "Peixin Zeng, Hao Huang, Yanqi Pan, Wen Xia*, Darong Yang, Jiahao Chen, Nan Zhang.",
         "href": "https://www.usenix.org/conference/osdi26/presentation/zeng",
-        "epilogue": "Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26), Seattle, WA, USA, July 13-15, 2026. (Acceptance rate: 19.97%) <strong>Gilles Muller Best Artifact Award</strong>"
+        "epilogue": "Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26), Seattle, WA, USA, July 13-15, 2026. (Acceptance rate: 19.97%) "
     },{
         "title": "Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
         "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
