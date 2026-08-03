@@ -1,6 +1,6 @@
 pubs = [{
         "title": "Wisdom From File Systems: Fast and Reliable Update for Graph-based Vector Search via Soft Insert.",
-        "authors": "Yanqi Pan, Jiahao Chen, Hao Huang, Wen Xia, Xiangyu Zou, Shiyi Li, Chentao Wu, Jianzong Wang.",
+        "authors": "Yanqi Pan, Jiahao Chen, Hao Huang, Wen Xia*, Xiangyu Zou, Shiyi Li, Chentao Wu, Jianzong Wang.",
         "href": "https://www.asplos-conference.org/asplos2027/",
         "epilogue": "Proceedings of the 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’27), Heraklion, Crete, Greece, April 11-15, 2027. (Acceptance rate: 6%) "
     },{
