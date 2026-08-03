@@ -1,4 +1,9 @@
 pubs = [{
+        "title": "Wisdom From File Systems: Fast and Reliable Update for Graph-based Vector Search via Soft Insert.",
+        "authors": "Yanqi Pan, Jiahao Chen, Hao Huang, Wen Xia, Xiangyu Zou, Shiyi Li, Chentao Wu, Jianzong Wang.",
+        "href": "https://www.asplos-conference.org/asplos2027/",
+        "epilogue": "Proceedings of the 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’27), Heraklion, Crete, Greece, April 11-15, 2027. (Acceptance rate: 6%) "
+    },{
         "title": "Compaction-Free Memory Defragmentation for Virtualization via Infinite Guest Physical Address Space.",
         "authors": "Peixin Zeng, Hao Huang, Yanqi Pan, Wen Xia*, Darong Yang, Jiahao Chen, Nan Zhang.",
         "href": "https://www.usenix.org/conference/osdi26/presentation/zeng",
@@ -30,7 +35,7 @@ pubs = [{
         "title": "Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
         "authors": "Hao Huang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
         "href": "https://www.asplos-conference.org/asplos2025/",
-        "epilogue": "Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’25), March 30–April 3, 2025, Rotterdam, Netherlands. (Acceptance rate: 20%)"
+        "epilogue": "Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’25), Rotterdam, Netherlands, March 30–April 3, 2025. (Acceptance rate: 20%)"
     },
         {
         "title": "Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage.",
