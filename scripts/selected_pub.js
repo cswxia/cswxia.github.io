@@ -6,80 +6,80 @@ pubs = [{
     },{
         "title": "Compaction-Free Memory Defragmentation for Virtualization via Infinite Guest Physical Address Space.",
         "authors": "Peixin Zeng, Hao Huang, Yanqi Pan, Wen Xia*, Darong Yang, Jiahao Chen, Nan Zhang.",
-        "href": "https://www.usenix.org/conference/osdi26/presentation/zeng",
+        "href": "https://www.usenix.org/system/files/osdi26-zeng.pdf",
         "epilogue": "Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26), Seattle, WA, USA, July 13-15, 2026. (Acceptance rate: 19.97%) "
     },{
         "title": "Fast and Parallelized Crash Consistency with Opportunistic Order Elimination.",
         "authors": "Jiahao Chen, Yanqi Pan, Wen Xia*, Hao Huang, Peixin Zeng, Yuchen Shan.",
-        "href": "https://2026.eurosys.org/",
+        "href": "https://dl.acm.org/doi/epdf/10.1145/3767295.3769368",
         "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27-30, 2026. (Acceptance rate: 16.9%) <strong>Gilles Muller Best Artifact Award</strong>"
     },{
         "title": "Once Rolling Hashing is Enough: Exploiting Rolling Hash Reuse in Delta Compression.",
         "authors": "Haoliang Tan, Wenhao Ou, Xiangyu Zou, Cai Deng, Yanqi Pan, Hao Huang, Zhaoquan Gu, Wen Xia*.",
-       "href": "https://2026.eurosys.org/",
+       "href": "https://dl.acm.org/doi/epdf/10.1145/3767295.3803596",
         "epilogue": "Proceedings of the 21st ACM European Conference on Computer Systems (EuroSys'26), Edinburgh, UK, April 27-30, 2026. (Acceptance rate: 16.9%)"
     },
         {
         "title": "Towards Condensed and Efficient Read-Only File System via Sort-Enhanced Compression.",
         "authors": "Hao Huang, Yifeng Zhang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Jubin Zhong, and Hua Liao.",
-        "href": "https://www.usenix.org/conference/fast26",
+        "href": "https://www.usenix.org/system/files/fast26-huang.pdf",
         "epilogue": "Proceedings of the 24th USENIX Conference on File and Storage Technologies (FAST'26), Santa Clara, CA, USA, February 24-26, 2026.  (Acceptance rate: 17.5%)"
     },
         {
         "title": "Fast and Synchronous Crash Consistency with Metadata Write-Once File Systems.",
         "authors": "Yanqi Pan, Wen Xia*, Yifeng Zhang, Xiangyu Zou, Hao Huang, Zhenhua Li, and Chentao Wu.",
-        "href": "https://www.usenix.org/conference/osdi25",
+        "href": "https://www.usenix.org/system/files/osdi25-pan.pdf",
         "epilogue": "Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), Boston, MA, USA, July 7-9, 2025. (Acceptance rate: 14%)"
     },
         {
         "title": "Simplifying and Accelerating NOR Flash I/O Stack for RAM-Restricted Microcontrollers.",
         "authors": "Hao Huang, Yanqi Pan, Wen Xia*, Xiangyu Zou, Darong Yang, Liang Shi, and Hongwei Du.",
-        "href": "https://www.asplos-conference.org/asplos2025/",
+        "href": "https://dl.acm.org/doi/epdf/10.1145/3676641.3716272",
         "epilogue": "Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’25), Rotterdam, Netherlands, March 30–April 3, 2025. (Acceptance rate: 20%)"
     },
         {
         "title": "Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage.",
         "authors": "Dingbang Liu, Xiangyu Zou, Tao Lu, Philip Shilane, Wen Xia, Wenxuan Huang, Yanqi Pan, Hao Huang.",
-        "href": "https://www.eurosys.org/news/eurosys-2025",
+        "href": "https://dl.acm.org/doi/epdf/10.1145/3689031.3717493",
         "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
     },
         {
         "title": "Overcoming the Last Mile between Log-Structured File Systems and Persistent Memory via Scatter Logging.",
         "authors": "Yifeng Zhang, Yanqi Pan, Hao Huang, Yuchen Shan, Wen Xia*.",
-        "href": "https://www.eurosys.org/news/eurosys-2025",
+        "href": "https://dl.acm.org/doi/epdf/10.1145/3689031.3717488",
         "epilogue": "Proceedings of the 20th ACM European Conference on Computer Systems (EuroSys'25), Rotterdam, Netherlands, March 30 - April 3, 2025. (Acceptance rate: 8%)"
     },
       {
         "title": "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS.",
         "authors": "Yanqi Pan, Wen Xia*, Erci Xu,  Hao Huang, Xiangyu Zou, and Shiyi Li.",
-        "href": "https://www.usenix.org/conference/fast25/",
+        "href": "https://www.usenix.org/system/files/fast25-pan.pdf",
         "epilogue": "Proceedings of  the 23rd USENIX Conference on File and Storage Technologies (FAST'25), Santa Clara, CA, USA, February 25-27, 2025. (Acceptance rate: 21%) <strong>Distinguished Artifact Award</strong>"
     },
       
      {
         "title": "Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems.",
         "authors": "Jiansheng Qiu, Yanqi Pan, Wen Xia*, Xiaojia Huang, Wenjun Wu, Xiangyu Zou, Shiyi Li, and Yu Hua.",
-        "href": "https://www.usenix.org/conference/atc23/",
+        "href": "https://www.usenix.org/system/files/atc23-qiu-jiansheng.pdf",
         "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference  (USENIX ATC'23), Carlsbad, CA, USA, Jul. 2023. (Acceptance rate: 18%)"
     },
     
         {
         "title": "Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio.",
         "authors": "Xiangyu Zou, Wen Xia*, Philip Shilane, Haijun Zhang, and Xuan Wang.",
-        "href": "https://www.usenix.org/conference/atc22/",
+        "href": "https://www.usenix.org/system/files/atc22-zou.pdf",
         "epilogue": "Proceedings of the 2022 USENIX Annual Technical Conference (USENIX ATC'22), Carlsbad, CA, USA, Jul. 2022. (Acceptance rate: 16%)"
     },
     
     {
         "title": "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
         "authors": "Xiangyu Zou, Jingsong Yuan, Philip Shilane, Wen Xia*, Haijun Zhang, and Xuan Wang.",
-        "href": "https://www.usenix.org/conference/fast21/presentation/zou",
+        "href": "https://www.usenix.org/system/files/fast21-zou.pdf",
         "epilogue": "Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST'21), Santa Clara, CA, USA, Feb. 2021. (Acceptance rate: 21.5%)"
     },
     {
         "title": "Austere Flash Caching with Deduplication and Compression.",
         "authors": "Qiuping Wang, Jinhong Li, Wen Xia*, Erik Kruus, Biplob Debnath, and Patrick P. C. Lee.",
-        "href": "https://www.usenix.org/conference/atc20/presentation/wang-qiuping",
+        "href": "https://www.usenix.org/system/files/atc20-wang-qiuping.pdf",
         "epilogue": "Proceedings of the 2020 USENIX Annual Technical Conference (USENIX ATC'20), Boston, MA, USA, Jul. 2020. (Acceptance rate: 17%)"
     },
     
