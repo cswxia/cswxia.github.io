@@ -1,8 +1,12 @@
 
 PHDList = [
      {
+        "year": "2026",
+        "names": "Fangqi Bi, Zhuangxian Feng, Heng Xu"
+    },
+     {
         "year": "2025",
-        "names": "Nan Zhang, Haojie,Jian"
+        "names": "Nan Zhang, Haojie Jian"
     }, {
         "year": "2024",
         "names": "Yanqi Pan, DZIKANYANGA GRADWELL"
@@ -26,6 +30,10 @@ PHDList = [
 ]
 
 MasterList = [
+     {
+        "year": "2026",
+        "names": "Junyang Wang, Bingyang Li, Qingfang Yu, Cherikov Aidar"
+    },
      {
         "year": "2025",
         "names": "Wenhao Ou, Yuchen Shan, Mingzheng Jin, Shengjie Zhao"
